@@ -1,5 +1,5 @@
 const whySoSerious = () => {
-    console.log('Hahaha. .... hahaha....  ')
+    console.log('Hahaha. .... why so serious....  ')
 }
 
 whySoSerious()
